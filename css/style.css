@@ -160,7 +160,7 @@ img {
 .external-link {
     border: 1px solid var(--primaryText);
     border-radius: 20px;
-    background-color: transparent;
+    background-color: rgba(255, 8, 136, 0.8);
     display: flex;
     align-items: center;
     justify-content: center;
